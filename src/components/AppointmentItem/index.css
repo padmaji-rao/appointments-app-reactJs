@@ -1,0 +1,16 @@
+.card-title-cotainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.card-container {
+  border-radius: 10px;
+  border-color: #b5b7c4;
+  padding: 15px;
+  border-width: 1px;
+  border-style: solid;
+}
+.star-button {
+  border-width: 0px;
+  background-color: transparent;
+}
